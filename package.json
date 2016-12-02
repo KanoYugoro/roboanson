@@ -19,6 +19,7 @@
     "node": "0.10.x"
   },
   "scripts": {
+    "local": "./bin/hubot",
     "start": "./bin/hubot -a rocketchat"
   }
 }
